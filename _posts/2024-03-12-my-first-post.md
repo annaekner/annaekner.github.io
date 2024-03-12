@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "My first post"
 date:   2024-03-12 09:54:45 +0100
 categories: testing
