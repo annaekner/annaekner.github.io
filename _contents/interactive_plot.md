@@ -1,11 +1,5 @@
----
-layout: default
-title:  "Interactive plot"
-date:   2024-03-19 09:31:00 +0100
-categories: testing
----
-
-Trying to embed my interactive Bokeh plot to the website: 
+Trying out cool `code formatting`.
+Trying to embed my interactive Bokeh plot to the website:
 
 <iframe src="/assets/html/crimes_by_hour_interactive.html"
     sandbox="allow-same-origin allow-scripts"
