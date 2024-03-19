@@ -5,3 +5,5 @@
 layout: home
 ---
 
+Added stuff to the index file.. Let's see if this works.
+Trying out the `code formatting` for Markdown.
