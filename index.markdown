@@ -6,7 +6,29 @@
 layout: home
 ---
 
-{:toc}
-{% include_relative _contents/interactive_plot.md %}
-{% include_relative _contents/district_random_data.md %}
-{% include_relative _contents/video_heatmap.md %}
+Write text here.. 
+
+First plot:
+<img src="/assets/png/focuscrime_occurences_barplot.png" 
+    width="100%" 
+    height="100%">
+
+Second plot:
+<iframe src="/assets/html/HeatMapWithTime_prostitution.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="600"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+Third plot:
+<iframe src="/assets/html/focuscrime_frequency_interactive_piechart.html" 
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="600"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
